@@ -60,23 +60,23 @@ h2 {
 .first_block_prague {
   background-color: yellow;
   border: 6px dotted black;
-  margin-left: 70px;
+  margin-left: 5%;
 }
 
 .second_block_paris {
   background-color: yellowgreen;
   border: 6px dashed black;
-  margin-left: 1200px;
+  margin-left: 60%;
 }
 
 .third_block_germany {
   background-color:mediumpurple;
   border: 6px dashed black;
-  margin-left: 350px;
+  margin-left: 20%;
 }
 
 .fourth_block_austria {
   background-color:indianred;
   border: 6px dotted black;
-  margin-left: 850px;
+  margin-left: 50%;
 }
